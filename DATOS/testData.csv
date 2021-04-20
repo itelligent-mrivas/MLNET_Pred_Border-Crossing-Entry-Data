@@ -1,0 +1,758 @@
+#@ TextLoader{
+#@   header+
+#@   sep=semicolon
+#@   col=Port_Name:TX:0
+#@   col=State:TX:1
+#@   col=Port_Code:TX:2
+#@   col=Border:TX:3
+#@   col=Longitud:TX:4
+#@   col=Latitud:TX:5
+#@   col=Mes:TX:6
+#@   col=Year:TX:7
+#@   col=Measure:TX:8
+#@   col=Label:R4:9
+#@ }
+Port_Name;State;Port_Code;Border;Longitud;Latitud;Mes;Year;Measure;Label
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2015;Train Passengers;750
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1997;Rail Containers Empty;1352
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2002;Trucks;58450
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2020;Bus Passengers;2504
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2013;Bus Passengers;39103
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2010;Bus Passengers;27583
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2006;Truck Containers Loaded;43127
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1996;Truck Containers Loaded;24189
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2003;Pedestrians;881717
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2004;Buses;1163
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2007;Personal Vehicle Passengers;2221380
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2008;Bus Passengers;38979
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2009;Truck Containers Empty;28883
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2015;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2001;Truck Containers Empty;22803
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2006;Trucks;65348
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1997;Truck Containers Empty;17213
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2008;Truck Containers Loaded;31801
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2013;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;1997;Trucks;44149
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2019;Train Passengers;575
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2001;Bus Passengers;9763
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1997;Pedestrians;339155
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2002;Rail Containers Loaded;1680
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2008;Personal Vehicle Passengers;1924960
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2013;Personal Vehicle Passengers;1512411
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2004;Personal Vehicle Passengers;2376418
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;1996;Rail Containers Empty;1284
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2006;Rail Containers Empty;8741
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2006;Truck Containers Loaded;31003
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2007;Pedestrians;797922
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2000;Buses;601
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2005;Trucks;55827
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2005;Truck Containers Loaded;37680
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2006;Trains;227
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2001;Pedestrians;573777
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2004;Buses;1494
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1998;Personal Vehicles;1300542
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2004;Trains;63
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2019;Truck Containers Empty;16411
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2020;Rail Containers Empty;3523
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;1996;Rail Containers Loaded;515
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2006;Personal Vehicle Passengers;2121952
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2005;Train Passengers;690
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2006;Buses;1557
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2013;Rail Containers Empty;4381
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1999;Personal Vehicles;1400686
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2007;Buses;1370
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2008;Truck Containers Empty;23863
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2009;Truck Containers Empty;25880
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1996;Rail Containers Empty;1502
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2005;Rail Containers Loaded;5418
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2006;Rail Containers Empty;7277
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2007;Personal Vehicles;1228688
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2006;Train Passengers;1016
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2002;Rail Containers Loaded;1593
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1999;Rail Containers Empty;1893
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2019;Trucks;71749
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2020;Train Passengers;261
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2001;Trucks;52641
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1996;Buses;450
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2001;Truck Containers Loaded;31100
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2010;Trucks;61337
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2004;Trains;60
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2007;Rail Containers Loaded;7442
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2011;Truck Containers Empty;26822
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2015;Truck Containers Loaded;34601
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2006;Pedestrians;623954
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2019;Personal Vehicle Passengers;1624273
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2015;Buses;1863
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1997;Personal Vehicles;1356411
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2010;Trains;79
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2020;Trains;92
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2009;Buses;1541
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2006;Personal Vehicle Passengers;2157727
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2005;Bus Passengers;25792
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2002;Trucks;66541
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2013;Trains;108
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2010;Personal Vehicles;835520
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2011;Trucks;59674
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2020;Truck Containers Empty;8131
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2015;Truck Containers Empty;28629
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2013;Trucks;58002
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2000;Pedestrians;467454
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2013;Rail Containers Empty;5255
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2003;Bus Passengers;38418
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2007;Train Passengers;774
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1999;Truck Containers Loaded;32793
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2009;Personal Vehicles;881927
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2015;Truck Containers Empty;26092
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2000;Trains;50
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;1996;Rail Containers Loaded;853
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1997;Rail Containers Loaded;752
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;1999;Train Passengers;51
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2007;Rail Containers Loaded;8171
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2006;Pedestrians;595734
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2002;Trucks;48001
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2004;Pedestrians;710066
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2007;Truck Containers Loaded;37226
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1997;Trains;72
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;1999;Bus Passengers;9509
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2004;Personal Vehicles;1201825
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2019;Truck Containers Loaded;52429
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2015;Trains;153
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2006;Pedestrians;667353
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2005;Trucks;57111
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1997;Truck Containers Loaded;23352
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2002;Truck Containers Loaded;30568
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2010;Pedestrians;577258
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;1999;Buses;598
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2015;Truck Containers Loaded;36206
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2013;Trains;105
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2005;Rail Containers Loaded;5637
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2002;Truck Containers Empty;23515
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1998;Truck Containers Empty;29366
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2004;Personal Vehicles;1316460
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2013;Personal Vehicle Passengers;1444921
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2000;Buses;600
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1996;Trains;52
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2005;Bus Passengers;14505
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2006;Truck Containers Loaded;35800
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2013;Truck Containers Empty;29299
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1998;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2008;Personal Vehicles;1054760
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2019;Rail Containers Empty;8892
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2009;Buses;1352
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2000;Personal Vehicle Passengers;4157988
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2005;Rail Containers Empty;4628
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2005;Truck Containers Loaded;33388
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2001;Buses;735
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2007;Buses;1597
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2020;Bus Passengers;6984
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2002;Train Passengers;144
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2009;Rail Containers Loaded;2186
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2006;Rail Containers Empty;6185
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1996;Personal Vehicles;1242710
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2005;Trains;100
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2006;Personal Vehicle Passengers;2403136
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2003;Rail Containers Empty;3664
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2019;Buses;1745
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2015;Rail Containers Empty;4848
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2013;Truck Containers Loaded;32900
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1998;Buses;442
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2004;Personal Vehicles;1221841
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2004;Rail Containers Empty;5557
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2020;Rail Containers Empty;1438
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2015;Pedestrians;702241
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2002;Rail Containers Empty;2158
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2005;Pedestrians;544233
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2003;Rail Containers Empty;2236
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2004;Truck Containers Empty;26312
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1999;Personal Vehicles;1362826
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2020;Pedestrians;489272
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2015;Trains;130
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2013;Personal Vehicles;948199
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2008;Rail Containers Loaded;7750
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2015;Bus Passengers;32889
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2009;Personal Vehicles;810222
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2005;Train Passengers;545
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2006;Bus Passengers;17739
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2002;Pedestrians;786680
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2008;Rail Containers Empty;6010
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2010;Trains;108
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1997;Trucks;41389
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1999;Trains;52
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2007;Trains;224
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2008;Trains;220
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2006;Personal Vehicles;1228507
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2006;Truck Containers Loaded;42600
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1996;Trucks;45944
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2010;Rail Containers Empty;6254
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1997;Rail Containers Empty;2378
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2005;Buses;1245
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2019;Bus Passengers;23317
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2001;Rail Containers Empty;1851
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2007;Trucks;63118
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2004;Bus Passengers;19838
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2015;Personal Vehicle Passengers;1625931
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2015;Rail Containers Empty;5295
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2010;Personal Vehicle Passengers;1501515
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2006;Train Passengers;632
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2000;Train Passengers;162
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2005;Personal Vehicles;1171016
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2015;Truck Containers Empty;28269
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2009;Buses;1450
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2015;Trucks;66598
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1996;Bus Passengers;8108
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2005;Personal Vehicles;1348723
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2011;Rail Containers Loaded;2409
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2015;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2000;Trucks;64553
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2005;Personal Vehicle Passengers;2089952
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2002;Train Passengers;162
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2000;Trucks;49081
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2010;Personal Vehicle Passengers;1575984
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1999;Personal Vehicle Passengers;3952195
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2009;Personal Vehicle Passengers;1533707
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2001;Train Passengers;225
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2013;Personal Vehicles;923019
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2019;Personal Vehicle Passengers;1578702
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2020;Truck Containers Loaded;20587
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2009;Personal Vehicles;880035
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2007;Rail Containers Empty;6937
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2006;Trains;239
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2013;Rail Containers Loaded;2401
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2004;Personal Vehicles;1165730
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2009;Truck Containers Empty;22043
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2015;Rail Containers Empty;5341
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2006;Train Passengers;992
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2005;Personal Vehicles;1360750
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2006;Trucks;68088
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2008;Rail Containers Loaded;6813
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2004;Rail Containers Empty;4423
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2015;Trucks;62392
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2001;Personal Vehicle Passengers;2998572
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2000;Personal Vehicles;1355575
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2010;Trucks;61137
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2004;Train Passengers;165
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1999;Trucks;57326
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2015;Trucks;65886
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2013;Trains;129
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2010;Truck Containers Empty;26755
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2005;Rail Containers Empty;5235
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2010;Buses;1632
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2003;Rail Containers Loaded;1683
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2007;Truck Containers Loaded;31469
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2020;Personal Vehicle Passengers;1504954
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2015;Trucks;62185
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2009;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2003;Trains;52
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2007;Bus Passengers;38401
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2011;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2007;Truck Containers Empty;26842
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2015;Personal Vehicles;1040260
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2001;Bus Passengers;29689
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2006;Train Passengers;774
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2005;Rail Containers Empty;5734
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2001;Trucks;58833
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2013;Pedestrians;519188
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2004;Rail Containers Loaded;5185
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2001;Trains;50
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2003;Truck Containers Empty;24797
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2007;Personal Vehicles;1244505
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2009;Truck Containers Empty;27509
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2000;Personal Vehicles;1433789
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2005;Personal Vehicle Passengers;2511209
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;1997;Trucks;51445
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2011;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2004;Truck Containers Empty;26540
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2010;Bus Passengers;19047
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2006;Truck Containers Empty;27238
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2002;Trucks;58607
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2000;Personal Vehicles;1368340
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2004;Truck Containers Empty;27491
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2013;Buses;1859
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2013;Trains;112
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2004;Rail Containers Empty;2498
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;1998;Truck Containers Loaded;16709
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2007;Personal Vehicle Passengers;2101175
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2020;Bus Passengers;4907
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2013;Trains;121
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2010;Buses;1841
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2000;Train Passengers;100
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1996;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2010;Buses;1886
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2019;Personal Vehicles;877426
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2006;Trucks;55206
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2005;Trains;139
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2013;Buses;1885
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2004;Trucks;62314
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2007;Truck Containers Loaded;31793
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2009;Trains;167
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2001;Truck Containers Loaded;24824
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2010;Trains;81
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2006;Buses;1573
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2019;Bus Passengers;21355
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2002;Trucks;58110
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2006;Truck Containers Empty;33366
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2013;Truck Containers Empty;27361
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1998;Rail Containers Empty;888
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;1999;Rail Containers Empty;2283
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2004;Bus Passengers;25821
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2002;Rail Containers Loaded;1529
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2010;Trains;93
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2000;Trains;50
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2013;Trains;102
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2010;Rail Containers Loaded;2321
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2004;Pedestrians;639388
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2008;Truck Containers Empty;32894
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1997;Trains;75
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2001;Bus Passengers;12221
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2006;Bus Passengers;4027
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2005;Trucks;66009
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2014;Trains;106
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2000;Rail Containers Loaded;1049
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2013;Truck Containers Loaded;32490
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2003;Buses;2268
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2011;Personal Vehicle Passengers;1198618
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1999;Rail Containers Loaded;917
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2020;Personal Vehicle Passengers;577312
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2001;Bus Passengers;27056
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2005;Truck Containers Loaded;35968
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;1997;Trains;75
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2002;Bus Passengers;30999
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2001;Rail Containers Loaded;1798
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2010;Trains;82
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1999;Truck Containers Empty;25731
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2020;Personal Vehicles;393275
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2015;Trains;124
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2000;Trucks;56688
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;1997;Truck Containers Loaded;26302
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2007;Rail Containers Loaded;7759
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2016;Personal Vehicles;976014
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2020;Rail Containers Empty;1735
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2015;Truck Containers Loaded;37383
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1996;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2007;Personal Vehicle Passengers;1808058
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2007;Truck Containers Loaded;37402
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1998;Personal Vehicle Passengers;3316388
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2019;Rail Containers Empty;7261
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1997;Truck Containers Loaded;26852
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2002;Personal Vehicles;1083372
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2001;Pedestrians;669337
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1996;Rail Containers Empty;1250
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2002;Personal Vehicle Passengers;2557053
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2004;Pedestrians;712378
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2009;Personal Vehicle Passengers;1517461
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2007;Buses;1349
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2005;Trucks;63788
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2002;Truck Containers Loaded;24818
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2008;Pedestrians;708485
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2004;Buses;2359
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2007;Trains;228
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;1998;Trucks;44065
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2008;Bus Passengers;35010
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2019;Truck Containers Loaded;51066
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2015;Rail Containers Loaded;5226
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2006;Rail Containers Loaded;9054
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2000;Truck Containers Empty;22735
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2010;Rail Containers Empty;7161
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2004;Trains;59
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2008;Personal Vehicle Passengers;1759669
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2019;Trucks;65559
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1997;Pedestrians;563276
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2013;Bus Passengers;25856
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1996;Rail Containers Empty;939
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2000;Pedestrians;511036
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2004;Personal Vehicle Passengers;2465346
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2009;Trains;78
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2005;Buses;1273
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2013;Personal Vehicles;968596
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2006;Trains;216
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2002;Pedestrians;875905
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2004;Trains;67
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2013;Truck Containers Loaded;36082
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2008;Rail Containers Loaded;5712
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2015;Train Passengers;685
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2019;Truck Containers Empty;15051
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2010;Rail Containers Loaded;2359
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2006;Train Passengers;929
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2010;Truck Containers Empty;28899
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2007;Truck Containers Loaded;36087
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2002;Train Passengers;162
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2001;Truck Containers Loaded;30870
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2012;Bus Passengers;35872
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2018;Buses;1291
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2017;Bus Passengers;23180
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2011;Buses;1983
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2015;Truck Containers Empty;27036
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1999;Pedestrians;428387
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2015;Rail Containers Empty;4834
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2018;Bus Passengers;14532
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1998;Personal Vehicles;1249227
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1999;Rail Containers Empty;2152
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2002;Rail Containers Loaded;1675
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2018;Buses;1334
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2015;Train Passengers;465
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;1999;Personal Vehicle Passengers;3803318
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2000;Train Passengers;196
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1997;Pedestrians;341565
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2013;Bus Passengers;31167
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2015;Trucks;60069
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2010;Truck Containers Loaded;26985
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2019;Personal Vehicle Passengers;1486697
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2018;Pedestrians;605203
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2018;Truck Containers Empty;17663
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2009;Trains;168
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1999;Personal Vehicle Passengers;3858926
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2016;Rail Containers Loaded;4027
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2020;Trains;92
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2002;Personal Vehicle Passengers;2213162
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2001;Truck Containers Loaded;30568
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2000;Rail Containers Loaded;1039
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1999;Bus Passengers;11083
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2016;Buses;1609
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1997;Personal Vehicles;1255268
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2009;Rail Containers Empty;3462
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2008;Buses;2403
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2011;Bus Passengers;42232
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2000;Rail Containers Empty;1306
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2016;Truck Containers Empty;28359
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1996;Buses;432
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2015;Personal Vehicles;1012192
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2003;Personal Vehicles;1087767
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2017;Trains;160
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2001;Pedestrians;633721
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1996;Truck Containers Empty;20195
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2020;Train Passengers;420
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1997;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2002;Buses;2118
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1998;Trucks;56613
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2017;Rail Containers Loaded;4035
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2008;Rail Containers Loaded;6494
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2012;Trains;105
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2012;Pedestrians;524648
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2015;Pedestrians;535161
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1997;Buses;408
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2001;Buses;942
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2015;Personal Vehicle Passengers;1626853
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2003;Pedestrians;697889
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2012;Truck Containers Empty;25492
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2011;Rail Containers Loaded;2588
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2015;Truck Containers Empty;25886
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;1999;Rail Containers Loaded;862
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1999;Personal Vehicles;1330664
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1996;Truck Containers Loaded;25675
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2020;Personal Vehicles;391211
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2003;Truck Containers Loaded;31952
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;1999;Personal Vehicle Passengers;3714164
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2014;Pedestrians;530418
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2019;Personal Vehicles;938792
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2020;Rail Containers Loaded;2644
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2003;Rail Containers Loaded;1814
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2019;Personal Vehicles;928499
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2009;Pedestrians;641039
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2008;Buses;2255
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2012;Truck Containers Empty;25692
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1996;Personal Vehicles;1288824
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1997;Trains;81
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2002;Trucks;60039
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2017;Truck Containers Empty;27319
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2015;Trains;138
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1997;Bus Passengers;8451
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2006;Trains;188
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2009;Rail Containers Loaded;2295
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1998;Truck Containers Loaded;20553
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2014;Truck Containers Loaded;35754
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2008;Personal Vehicles;1097362
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2011;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2016;Personal Vehicle Passengers;1802395
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2014;Rail Containers Loaded;4217
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2019;Truck Containers Empty;14451
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2002;Train Passengers;156
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2003;Truck Containers Empty;24030
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2016;Buses;1425
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1996;Pedestrians;309842
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1998;Rail Containers Empty;1568
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2002;Rail Containers Loaded;1441
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2018;Personal Vehicles;1078514
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2009;Trucks;53296
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2014;Bus Passengers;17578
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2008;Truck Containers Empty;32999
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2010;Personal Vehicle Passengers;1308929
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2002;Buses;3246
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;1999;Rail Containers Loaded;444
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2008;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2011;Rail Containers Loaded;2408
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2017;Trains;129
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2010;Rail Containers Empty;3958
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1998;Bus Passengers;13122
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2006;Rail Containers Loaded;7298
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2014;Personal Vehicles;965486
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2008;Truck Containers Loaded;35770
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2011;Bus Passengers;27718
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2015;Trucks;58499
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2012;Pedestrians;584163
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2006;Bus Passengers;20446
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2003;Personal Vehicles;1101772
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2012;Bus Passengers;39768
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2018;Bus Passengers;13196
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2009;Truck Containers Loaded;27252
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2017;Trucks;68546
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2008;Rail Containers Empty;7711
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2003;Rail Containers Loaded;1876
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;1996;Rail Containers Loaded;860
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2020;Train Passengers;455
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2008;Trucks;66578
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2015;Personal Vehicle Passengers;1485867
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2011;Personal Vehicle Passengers;1322321
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2003;Train Passengers;162
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2016;Rail Containers Empty;4817
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2006;Rail Containers Loaded;8612
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2003;Bus Passengers;32951
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2009;Buses;1387
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2017;Personal Vehicle Passengers;1843012
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2012;Pedestrians;499215
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2000;Trucks;77419
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2017;Pedestrians;538250
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2016;Personal Vehicles;1038423
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1998;Truck Containers Loaded;16616
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2002;Truck Containers Loaded;34431
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2012;Buses;1893
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2009;Truck Containers Empty;21032
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2014;Rail Containers Empty;3828
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2000;Buses;689
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2017;Buses;1462
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2002;Pedestrians;671743
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2012;Personal Vehicle Passengers;1273450
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2011;Personal Vehicles;688921
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2012;Rail Containers Empty;4194
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2015;Pedestrians;624412
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2014;Personal Vehicles;992387
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2020;Trains;89
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1997;Truck Containers Empty;25684
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2019;Pedestrians;382224
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2017;Personal Vehicles;1032244
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2003;Pedestrians;697104
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2016;Rail Containers Loaded;3708
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2014;Rail Containers Empty;5775
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2002;Rail Containers Loaded;1511
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2005;Trains;161
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1998;Truck Containers Loaded;27138
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2014;Personal Vehicle Passengers;1397503
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2008;Trains;222
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2011;Trucks;52958
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2003;Trucks;63695
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2014;Trains;165
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2005;Personal Vehicles;1329297
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2012;Buses;2003
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1998;Buses;467
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2014;Pedestrians;538230
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2001;Train Passengers;153
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2014;Personal Vehicles;974966
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2012;Personal Vehicle Passengers;1300267
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1999;Rail Containers Empty;1955
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1997;Rail Containers Loaded;747
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2018;Pedestrians;639385
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2017;Buses;1309
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1996;Rail Containers Loaded;651
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2002;Personal Vehicle Passengers;2214045
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2005;Rail Containers Loaded;6890
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2017;Pedestrians;588835
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2008;Rail Containers Loaded;5440
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2012;Personal Vehicle Passengers;1368294
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2000;Trains;86
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2016;Bus Passengers;11528
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1996;Pedestrians;369751
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2014;Train Passengers;653
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2020;Trucks;15381
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2018;Bus Passengers;17348
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2019;Train Passengers;670
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2017;Rail Containers Empty;4495
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1998;Bus Passengers;14683
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2012;Rail Containers Loaded;2665
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2013;Trucks;60035
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2000;Rail Containers Empty;1520
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2010;Rail Containers Loaded;2579
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2016;Bus Passengers;13942
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2012;Truck Containers Loaded;31405
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2018;Trucks;75956
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2009;Rail Containers Empty;3049
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2008;Trucks;68063
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2014;Train Passengers;525
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2013;Personal Vehicles;825186
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2011;Truck Containers Loaded;15052
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2010;Rail Containers Empty;4456
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2009;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2017;Truck Containers Loaded;35362
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2001;Trucks;56217
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2008;Rail Containers Loaded;6642
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2014;Trucks;58978
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2012;Trucks;60962
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2000;Truck Containers Loaded;27357
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2016;Buses;1318
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2014;Train Passengers;668
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2006;Truck Containers Empty;25868
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2001;Truck Containers Empty;24761
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2016;Bus Passengers;15564
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2003;Trains;54
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2019;Bus Passengers;39745
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2013;Personal Vehicle Passengers;1702710
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1998;Trucks;51336
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2003;Trucks;49454
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2018;Truck Containers Empty;24574
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2020;Truck Containers Loaded;3106
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2009;Trains;156
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2014;Truck Containers Empty;25866
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2018;Truck Containers Loaded;38034
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2008;Rail Containers Loaded;5226
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;1998;Trains;52
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2002;Truck Containers Empty;28772
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2014;Train Passengers;415
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2001;Rail Containers Loaded;1534
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2012;Rail Containers Empty;5158
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2019;Personal Vehicle Passengers;1408249
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2014;Truck Containers Empty;28613
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2001;Trucks;56886
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2002;Personal Vehicle Passengers;2172623
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2003;Buses;2482
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2001;Personal Vehicle Passengers;3000264
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2003;Truck Containers Loaded;30802
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2019;Bus Passengers;27764
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2009;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2018;Pedestrians;536320
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2001;Pedestrians;639049
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;1998;Rail Containers Empty;3623
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2005;Train Passengers;1009
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2019;Train Passengers;605
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;1997;Personal Vehicle Passengers;3753938
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;1997;Truck Containers Loaded;26397
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2018;Bus Passengers;12742
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;1998;Bus Passengers;9303
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2011;Rail Containers Empty;3380
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2005;Personal Vehicle Passengers;2608296
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2011;Buses;1624
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2017;Rail Containers Empty;4587
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;1998;Truck Containers Empty;3735
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2014;Trains;115
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2003;Personal Vehicle Passengers;1652555
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2012;Truck Containers Empty;29127
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;1999;Trains;52
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2014;Truck Containers Loaded;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2019;Personal Vehicle Passengers;1250211
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2001;Buses;761
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2009;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1998;Bus Passengers;11437
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2008;Pedestrians;661816
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;1998;Personal Vehicles;1279629
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2003;Trucks;55642
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2014;Buses;1878
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2018;Train Passengers;585
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1998;Trains;60
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2011;Pedestrians;534642
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2012;Rail Containers Empty;5304
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2018;Truck Containers Loaded;49519
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1998;Truck Containers Empty;11535
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2001;Rail Containers Empty;2225
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1998;Pedestrians;375589
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;1998;Pedestrians;613442
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1998;Rail Containers Empty;4576
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2012;Pedestrians;477821
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2009;Rail Containers Loaded;3099
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1998;Rail Containers Loaded;1015
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2005;Personal Vehicles;1374196
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2003;Buses;2487
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2019;Truck Containers Loaded;45331
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2009;Bus Passengers;33140
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2003;Rail Containers Empty;2843
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2017;Truck Containers Empty;27678
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2011;Trains;94
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2012;Buses;1892
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2017;Truck Containers Loaded;40909
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2016;Train Passengers;1390
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2003;Rail Containers Empty;2463
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2005;Bus Passengers;26123
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1998;Truck Containers Loaded;13723
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2014;Truck Containers Loaded;32970
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2000;Personal Vehicle Passengers;4038981
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2018;Rail Containers Empty;3447
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1998;Trucks;48946
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2000;Train Passengers;176
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2012;Pedestrians;468938
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2018;Truck Containers Loaded;36780
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2016;Trains;144
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2003;Truck Containers Empty;24169
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;1998;Bus Passengers;8149
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2011;Rail Containers Loaded;2467
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1999;Pedestrians;450986
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2000;Truck Containers Loaded;26189
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1999;Personal Vehicles;1242191
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2018;Trains;109
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2011;Personal Vehicle Passengers;1194305
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2014;Personal Vehicles;984826
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;1999;Truck Containers Empty;21421
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2018;Truck Containers Loaded;44262
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2019;Rail Containers Loaded;3073
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2018;Train Passengers;520
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2016;Train Passengers;710
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2012;Train Passengers;0
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2014;Train Passengers;625
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2012;Bus Passengers;38397
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2017;Train Passengers;740
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2003;Trucks;52598
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2006;Personal Vehicles;1346057
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2000;Pedestrians;613229
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2012;Trucks;49905
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2016;Buses;1305
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2016;Truck Containers Empty;27775
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2016;Truck Containers Loaded;31769
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2014;Buses;1798
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2018;Bus Passengers;18880
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;1999;Truck Containers Empty;25968
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2018;Bus Passengers;22325
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2018;Rail Containers Loaded;3686
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2018;Truck Containers Loaded;53189
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2017;Personal Vehicle Passengers;1951761
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2014;Personal Vehicles;942883
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;2018;Rail Containers Loaded;4183
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2017;Truck Containers Empty;29142
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2010;Bus Passengers;36084
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2017;Train Passengers;605
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2014;Personal Vehicles;1020558
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;3;1999;Rail Containers Loaded;952
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2017;Personal Vehicle Passengers;1914668
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2014;Rail Containers Empty;5257
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2010;Trucks;61160
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2018;Truck Containers Loaded;55329
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2017;Pedestrians;548964
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;5;2016;Rail Containers Empty;4257
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2018;Train Passengers;600
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2017;Pedestrians;602996
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2018;Personal Vehicles;1081501
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2015;Personal Vehicle Passengers;1795630
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;2016;Rail Containers Loaded;4467
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2019;Trains;123
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2018;Trains;122
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;11;2017;Buses;1419
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2014;Trucks;63020
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2019;Truck Containers Loaded;52875
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2003;Personal Vehicles;1160069
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2019;Buses;1361
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2017;Rail Containers Loaded;4443
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2017;Rail Containers Empty;4081
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2018;Buses;1211
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;1;2019;Rail Containers Empty;5705
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2014;Trucks;64775
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2003;Train Passengers;150
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2003;Rail Containers Loaded;1756
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;7;1996;Personal Vehicles;1198270
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;6;2003;Trains;50
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;2016;Train Passengers;640
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2003;Rail Containers Empty;2331
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2017;Rail Containers Loaded;3994
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;2003;Personal Vehicles;1168516
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1996;Trucks;51791
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;2003;Bus Passengers;39091
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1996;Pedestrians;332235
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;4;2017;Bus Passengers;16320
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;9;1996;Buses;470
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;12;2016;Pedestrians;596445
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;8;1996;Rail Containers Empty;967
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;2;2017;Trucks;60174
+El Paso;Texas;2402;US-Mexico Border;-106.48639;31.758610000000004;10;1996;Bus Passengers;7060
